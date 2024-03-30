@@ -1,0 +1,35 @@
+{
+  "name": "nimeson-gas-convert",
+  "version": "1.0.0",
+  "description": "nimeson-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vanvo89/nimeson-gas-convert.git"
+  },
+  "keywords": [
+    "nimeson-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "vanvo89",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanvo89/nimeson-gas-convert/issues"
+  },
+  "homepage": "https://github.com/vanvo89/nimeson-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2",
+    "vanvo89-gas-convert": "^1.0.0",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "ttk_library": "^1.2.1",
+	"excel-utils-phuongdh": "^1.0.1",
+	"file-operations-dhp": "^1.0.2"
+  }
+}
